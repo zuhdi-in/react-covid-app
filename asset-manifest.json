@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-covid-app/static/css/main.88146bfd.css",
+    "main.js": "/react-covid-app/static/js/main.64d99052.js",
+    "static/media/Ilustrasi-covid.png": "/react-covid-app/static/media/Ilustrasi-covid.fa7c279faee4104749f8.png",
+    "static/media/Ilustrasi-addform.png": "/react-covid-app/static/media/Ilustrasi-addform.abc112f002d6bd6d2b3d.png",
+    "index.html": "/react-covid-app/index.html",
+    "main.88146bfd.css.map": "/react-covid-app/static/css/main.88146bfd.css.map",
+    "main.64d99052.js.map": "/react-covid-app/static/js/main.64d99052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88146bfd.css",
+    "static/js/main.64d99052.js"
+  ]
+}
