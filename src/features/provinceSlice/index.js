@@ -17,7 +17,7 @@ const provSlice = createSlice({
             const {kota,status,jumlah} = action.payload
             const index = state.prov.findIndex((item)=>item.kota === kota);
 
-            state.prov[index][status] = state.prov[index][status].value + jumlah
+            state.prov[index][status] = jumlah
         }
     },
         
